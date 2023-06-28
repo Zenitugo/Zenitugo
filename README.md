@@ -1,11 +1,11 @@
 Hello there; welcome 👋🏾
-AltSchool Badge Website Badge Linkedin Badge Twitter Badge
 
-I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my Blog, Newsletter, and YouTube), build useful open-source projects, speak at some meetups/conferences, build technical communities...
+
+I'm a student of Front-End Engineering, Cloud Engineering. I also just started to use my gift in teaching to start a hobby in Technical Writing. Check out my work here https://dev.to/dhebbythenerd
 
 Here's a quick summary about me:
 
-😊 Pronouns: She/her
+😊 Pronouns: She/her.
 💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2023.
 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
