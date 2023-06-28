@@ -1,8 +1,16 @@
-- 👋 Hi, I’m Ugochi Deborah Ukaegbu
-- 👀 I’m interested in resources that could help me in my Software Engineering Journey...
-- 🌱 I’m currently learning SoftwareEngineering.
-- 💞️ I’m looking to collaborate on Projects that ould help enhance my skills...
-- 📫 How to reach me ugochiukaegbu19@gmail.com and ugochiukaegbu21@gmail.com...
+Hello there; welcome 👋🏾
+AltSchool Badge Website Badge Linkedin Badge Twitter Badge
+
+I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my Blog, Newsletter, and YouTube), build useful open-source projects, speak at some meetups/conferences, build technical communities...
+
+Here's a quick summary about me:
+
+😊 Pronouns: She/her
+💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2023.
+🌱 I’m currently learning JavaScript, Reactjs, and Python.
+😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
+💼 Job interests: Front-End Engineer, or Cloud Engineer (Intern or Junior level).
+📫 You can view my resume and contact me by emailing ugochiukaegbu21@gmail.com.
 
 <!---
 Zenitugo/Zenitugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
