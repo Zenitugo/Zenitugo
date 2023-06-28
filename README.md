@@ -1,4 +1,4 @@
-I'm a student of Front-End Engineering, Cloud Engineering. I also just started to use my gift in teaching to start a hobby in Technical Writing. Check out my work here https://dev.to/dhebbythenerd
+I'm a student of Software Engineering at AltSchool Africa. I also just started to use my gift in teaching to start a hobby in Technical Writing. Check out my work here https://dev.to/dhebbythenerd
 
 Here's a quick summary about me:
 
