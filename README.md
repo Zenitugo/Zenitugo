@@ -15,8 +15,6 @@
 
 😊   I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 
-🌱   I'm currently taking part in the GCP professional Networking course
-
  ##  JOB INTEREST 
  💼     DevOps Engineer (Intern or Junior level).
  
