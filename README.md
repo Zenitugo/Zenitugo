@@ -16,7 +16,7 @@
 😊   I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 
  ##  JOB INTEREST 
- 💼     DevOps Engineer (Intern or Junior level).
+ 💼     DevOps Engineer, Cloud Computing Engineer, Site Reliability Engineer (Intern or Junior level).
  
  ##  CONTACT ME    
    **You can contact me through the following channels:**
