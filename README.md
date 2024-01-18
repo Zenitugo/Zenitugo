@@ -13,6 +13,8 @@ I have comprehensive training and hands-on experience and I'm committed to strea
 * 🤝  I'm open to collaborating on Open source projects
 * ⚡  I started to use my teaching gift to start a hobby in technical writing.
 
+#
+
 
 ### Socials
 
