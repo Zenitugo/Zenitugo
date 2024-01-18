@@ -11,7 +11,7 @@ I have comprehensive training and hands-on experience and I'm committed to strea
 * ✉️  You can contact me at [ugochiukaegbu21@gmail.com](mailto:ugochiukaegbu21@gmail.com)
 * 🧠  I'm learning Docker, Jenkins, Terraform, Kubernetes, & Python.
 * 🤝  I'm open to collaborating on Open source projects
-* ⚡  I started to use my teaching gift to start a hobby in technical writing.
+* ⚡ I am currently engaged in some technical writing.
 
 
 ## JOB INTEREST
