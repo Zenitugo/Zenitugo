@@ -7,7 +7,7 @@ DevOps Engineer
 I have comprehensive training and hands-on experience and I'm committed to streamlining software development processes and fostering collaboration for seamless deployment.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [Zenitugo](http://zenitugo-17.my.canva.site/portfolio)
+* 🖥️  See my portfolio at [Zenitugo](https://zenitugo-17.my.canva.site/portfolio)
 * ✉️  You can contact me at [ugochiukaegbu21@gmail.com](mailto:ugochiukaegbu21@gmail.com)
 * 🧠  I'm learning Docker, Jenkins, Kubernetes, & Python.
 * 🤝  I'm open to collaborating on Open source projects
