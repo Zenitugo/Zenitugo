@@ -12,6 +12,7 @@ I have comprehensive training and hands-on experience and I'm committed to strea
 * 🧠  I'm learning Docker, Jenkins, Kubernetes, & Python.
 * 🤝  I'm open to collaborating on Open source projects
 * ⚡ I am currently engaged in some technical writing.
+* ⚡ I am currently working on a CI/CD project.
 
 
 ## JOB INTEREST
