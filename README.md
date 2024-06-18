@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ugochi Ukaegbu</h1>
 
-<h2>I'm a dedicated software developer with a strong passion for streamlining software development processes. With comprehensive training and hands-on experience, I thrive in environments where innovation and learning is encouragd.</h2>
+<h2>I'm a dedicated software developer passionate about streamlining software development processes. With comprehensive training and hands-on experience, I thrive in environments where innovation and learning are encouraged.</h2>
 
 💡 💡💡💡 💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡
 
