@@ -24,7 +24,7 @@
 
 ## INTERESTS
 
-🤸 **When I'm not coding or deploying applications, I am on X (formerly Twitter) getting informed on the latest news and trends, on YouTube watching videos to relax, and attending tech events. Beyond that, I enjoy exploring new culinary recipes which allows me to experiment with different flavors and techniques in the kitchen and, also having conversations with people. I also actively participate in tech meetups and workshops to stay connected with industry trends and network with fellow professionals**.<br>
+🤸 **When I'm not coding or deploying applications, I am on X (formerly Twitter) getting informed on the latest news and trends, on YouTube watching videos to relax, and attending tech events. Beyond that, I enjoy exploring new culinary recipes which allows me to experiment with different flavors and techniques in the kitchen and, also love having conversations with people. I also attend tech meetups and workshops to stay connected with industry trends and network with fellow professionals**.<br>
 
 
 ## CONTACT
