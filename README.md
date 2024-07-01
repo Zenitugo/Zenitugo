@@ -20,7 +20,7 @@
 
 🤝 **OPEN SOURCE PROJECTS**: **I'm enthusiastic about collaborating on open-source projects that drive meaningful impact. Let's join forces to innovate and solve real-world challenges together**!<br>
 <br>
-🖥️ **PORTFOLIO**: **Explore my portfolio [portfolio](https://zenitugo-17.my.canva.site/portfolio) to see my previous work and projects**.<br>
+🖥️ **PORTFOLIO**: **Explore my portfolio [portfolio](https://zenitugo.com.ng) to see my previous work and projects**.<br>
 
 ## INTERESTS
 
