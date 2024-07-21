@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/34a8bff9-c26b-4df7-a8a0-a68e91378fc5
+
 # 💫 ABOUT ME:
 
 <h1 align="center">Hi 👋, I'm Ugochi Ukaegbu</h1>
